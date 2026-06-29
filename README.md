@@ -1,2 +1,28 @@
-# ESG-Climate-Readiness-and-Sustainability-Dashboard
-Interactive Power BI dashboard analyzing climate readiness, renewable energy, adaptive capacity, and CO₂ emissions across countries.
+# ESG Climate Readiness & Sustainability Dashboard
+
+## Overview
+This Power BI dashboard analyzes global climate readiness and sustainability indicators across different countries.
+
+## Key Metrics
+- Climate Readiness Index
+- Adaptive Capacity Index
+- CO₂ Emissions per Capita
+- Renewable Energy Consumption
+
+## Dashboard Features
+- KPI Cards
+- Gauge Chart
+- Donut Chart
+- Scatter Chart
+- Trend Analysis
+- Data Table
+- Year Slicer
+
+## Tools Used
+- Power BI
+- Power Query
+- DAX
+- Excel
+
+## Dataset
+Energy Economics Dataset
